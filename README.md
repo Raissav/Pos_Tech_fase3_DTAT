@@ -57,7 +57,6 @@ Pos_Tech_DTAT/
 ├── 📁 resultados/                     # Tabelas e recortes agregados resultantes do processamento
 ├── Apresentacao_Executiva.pdf         # Slides executivos da defesa técnica
 ├── Arquitetura_AWS.drawio             # Diagrama de arquitetura editável
-├── Guia_Didatico.md                   # Documentação conceitual e técnica da solução
 ├── Notebook_Analise.ipynb             # Notebook Jupyter com análise exploratória e reconciliação
 ├── Roteiro_De_Apresentacao.md         # Roteiro utilizado no vídeo executivo
 └── README.md                          # Visão geral e guia do repositório
