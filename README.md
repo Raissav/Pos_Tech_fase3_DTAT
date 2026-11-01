@@ -11,14 +11,6 @@ O objetivo do projeto é estruturar um pipeline de dados distribuído em nuvem A
 
 ---
 
-## 📺 Apresentação Executiva
-
-Conforme os requisitos do desafio, gravamos um vídeo de defesa técnica direcionado ao corpo docente e lideranças técnicas. O vídeo aborda a arquitetura na AWS, os desafios de padronização multi-safra, os insights extraídos e as ressalvas analíticas do estudo.
-
-▶️ [**Assistir à Apresentação Executiva no YouTube**](https://youtu.be/SEU_LINK_AQUI)
-
----
-
 ## 👥 Autores do Projeto
 
 O trabalho foi idealizado, projetado e executado de forma colaborativa pelos integrantes:
