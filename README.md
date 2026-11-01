@@ -33,7 +33,7 @@ O trabalho foi idealizado, projetado e executado de forma colaborativa pelos int
 ## 🏛️ Arquitetura de Dados na AWS
 
 O pipeline foi construído seguindo os princípios de computação distribuída em nuvem e governança de dados:
-
+```text
 [ Dados Brutos (.csv) ] 
        │
        ▼
@@ -41,10 +41,12 @@ O pipeline foi construído seguindo os princípios de computação distribuída 
  │ Amazon S3 │ ───► │   AWS Glue (PySpark)    │ ───► │ Amazon S3 │ ───► │ AWS Glue Data │ ───► [ Amazon Athena ]
  │ (Bronze)  │      │ Processing & Encryption │      │ (Silver)  │      │    Catalog    │      │  (SQL Queries) │
  └───────────┘      └─────────────────────────┘      └───────────┘      └───────────────┘
+```
 ## 📁 Estrutura de Pastas do Repositório
 
 A estrutura deste repositório segue rigorosas boas práticas de Governança de Dados e Engenharia de Software:
 
+```text
 Pos_Tech_DTAT/
 ├── 📁 codigos/
 │   ├── glue_job.py                    # Script PySpark executado no AWS Glue
