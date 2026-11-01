@@ -1,0 +1,111 @@
+# Roteiro de apresentação — 15 a 20 minutos
+
+Selecione 12–15 slides centrais para uma fala curta; preserve os demais como apoio técnico. Não declare execução AWS antes de realizá-la.
+
+## Slide 01 — Dados e IA no Brasil:
+da evidência à estratégia de expansão
+
+Apresente os integrantes e a turma verbalmente. Esta entrega combina análise verificada dos arquivos e arquitetura proposta para execução no AWS Academy Lab. A unidade de análise é resposta por edição, não pessoa única ao longo do tempo.
+
+## Slide 02 — O que está comprovado — e o que falta executar
+
+A versão inicial do usuário foi lida. O pipeline aprimorado foi testado em Spark local 3.5.6. IAM, S3 remoto, integração Glue e Athena só podem ser validados no Lab do grupo. Atualize esta lâmina após execução real, informando data e ID do job.
+
+## Slide 03 — Quatro sinais orientam a decisão executiva
+
+Não contraponha os 98,1% e 27,6% como um funil com os mesmos respondentes: são perguntas e universos distintos. A leitura conjunta sugere a necessidade de medir valor, sem provar causalidade.
+
+## Slide 04 — Arquitetura: preservar, harmonizar e disponibilizar
+
+Explique que as conversões antigas não serão apagadas. A Bronze usa o prefixo de entrada existente. A nova saída usa um snapshot por RUN_ID. O job cataloga via API Glue e registra as três partições; não depende de crawler. IAM e CloudWatch são controles de execução, a confirmar no Lab.
+
+## Slide 05 — Qualidade: corrigir sem inventar respostas
+
+Duplicatas são registros inteiramente idênticos: 2 em 2024 e 1 em 2025–2026. Não há IDs conflitantes após essa remoção. As 44 contradições abrangem todos os residentes e não residentes; entre residentes são 26, 13 e 5. As anomalias salariais estão listadas no CSV de auditoria. Não imputamos a faixa presumida.
+
+## Slide 06 — Comparabilidade é parte do resultado, não uma nota de rodapé
+
+Sem desenho amostral e pesos fornecidos, não extrapolamos percentuais como estimativas representativas do emprego brasileiro. A pesquisa mede tecnologias declaradas, não procura por vagas. As diferenças de remuneração não foram ajustadas por composição e não demonstram discriminação ou causalidade.
+
+## Slide 07 — Estrutura: concentração regional e competição por talentos
+
+O Sudeste concentra 64,4% das respostas com região informada. 2025–2026; residentes no Brasil com região válida: n = 3.369. Não é estimativa de participação no emprego nacional. Interpretação: 64,4% no Sudeste; 19,0% no setor de Finanças/Bancos. Recomendação: Ampliar recrutamento nacional e avaliar disponibilidade por cargo, não só localização.
+
+## Slide 08 — Formação: combinar base acadêmica e aprendizagem aplicada
+
+A formação avançada é frequente na amostra. 2025–2026; residentes no Brasil; n = 3.372, incluindo recusa. Escolaridade reportada não prova competência nem efeito causal na remuneração. Interpretação: 56,8% informam pós-graduação, mestrado ou doutorado. Recomendação: Avaliar entregas práticas e capacitação contínua, sem transformar diploma em único filtro.
+
+## Slide 09 — Diversidade: participação feminina recua na amostra
+
+A participação feminina é menor nas edições mais recentes. Residentes no Brasil; n = 5.172 / 5.076 / 3.372. Inclui todas as categorias no denominador. Amostras independentes, não painel. Interpretação: 24,5% → 22,0%
+Variação de −2,5 p.p. entre edições. Recomendação: Revisar etapas de seleção e progressão; acompanhar representação por senioridade.
+
+## Slide 10 — Trabalho remoto: a composição está mudando
+
+O remoto integral perde espaço na composição das amostras. Residentes com modelo atual informado; n = 4.653 / 4.734 / 3.123. Variação descritiva entre amostras. Interpretação: 46,3% → 40,1%
+Variação de −6,2 p.p. no remoto integral. Recomendação: Não confundir mudança da amostra com mudança das mesmas pessoas ou empresas.
+
+## Slide 11 — Flexibilidade é um componente da proposta de valor
+
+A preferência por flexibilidade supera a prática atual. 2025–2026; n = 3.123 em cada pergunta. Categorias mutuamente exclusivas dentro de cada pergunta. Interpretação: 85,2% preferem remoto ou híbrido flexível; 59,4% trabalham nesses formatos. Recomendação: Testar política de flexibilidade compatível com as atividades e medir retenção.
+
+## Slide 12 — Remuneração: diferenciar faixas por senioridade
+
+Senioridade diferencia fortemente a distribuição salarial. 2025–2026; n por grupo: 510 / 755 / 824 / 339. Faixa reportada, sem média imputada. Staff+ aparece como categoria nesta edição. Interpretação: 83,2% dos especialistas/Staff+ estão em faixas a partir de R$ 12.001. Recomendação: Definir trilhas técnicas e critérios de progressão; não usar uma faixa única para toda a área.
+
+## Slide 13 — Perfis valorizados: ML/IA e engenharia se destacam
+
+ML/IA e engenharia têm maior concentração nas faixas altas. 2025–2026; n dos cargos: 103 / 132 / 385 / 417 / 97 / 582. Ranking elegível n ≥ 30; não controla senioridade e não mede vagas. Interpretação: 63,1% em ML/IA versus 16,5% em Análise de Dados. Recomendação: Combinar contratação sênior com formação interna. Cargo sozinho não explica o salário.
+
+## Slide 14 — Regiões: interpretar diferenças com tamanho de amostra
+
+As regiões diferem, mas há forte assimetria amostral. 2025–2026; n: Sudeste 2.023; Sul 510; Nordeste 329; Centro-oeste 221; Norte 36. Comparação não ajustada. Interpretação: Sudeste: 44,6%
+Nordeste: 31,6% em faixas altas. Recomendação: Não ranquear o Norte como mercado equivalente: apenas 36 respostas salariais válidas.
+
+## Slide 15 — Modelo de trabalho e salário: associação, não causa
+
+Remoto e híbrido flexível concentram faixas mais altas. 2025–2026; n: remoto 1.250; híbrido flexível 603; híbrido fixo 619; presencial 650. Associação, não efeito causal do modelo. Interpretação: Remoto: 50,6%
+Presencial: 21,2% em faixas altas. Recomendação: Comparar também cargo e senioridade antes de definir política salarial ou de presença.
+
+## Slide 16 — Capacitação: fundamentos antes de especialização
+
+SQL e Python sustentam a trilha básica de capacitação. 2024; n = 3.502 respostas válidas por item. Múltipla escolha. Em 2025–2026, o cabeçalho indica preferência; não comparar como adoção. Interpretação: SQL: 87,7%
+Python: 81,8% de uso declarado em 2024. Recomendação: Priorizar SQL, Python e qualidade de dados; medir competência por entregas práticas.
+
+## Slide 17 — Cloud: AWS é aderente ao cenário observado
+
+AWS lidera entre as três clouds comparadas nesta amostra. 2025–2026; n = 2.033 por item; múltipla escolha. Cloud em 2023 tem cabeçalho de preferência; série temporal não utilizada. Interpretação: AWS: 48,1% entre respondentes válidos de 2025–2026. Recomendação: Usar S3, Glue, Spark e Athena no projeto; evitar concluir superioridade técnica pelo percentual.
+
+## Slide 18 — Analytics: visualização conecta dados à decisão
+
+Power BI tem ampla presença entre os respondentes. 2025–2026; n = 2.043 por item; múltipla escolha. Comparação destas ferramentas, não ranking exaustivo de todas as opções. Interpretação: Power BI: 59,0%
+Tableau: 13,4% na amostra. Recomendação: Capacitar storytelling e métricas de negócio; dashboard continua opcional nesta entrega.
+
+## Slide 19 — IA: adoção declarada se aproxima da saturação
+
+O uso declarado de IA se amplia; o financiamento também. Uso: n = 3.671 / 3.518 / 2.038, após excluir conflitos. Empresa paga: n = 3.697 / 3.531 / 2.043. Respostas de técnicos, não toda a amostra. Interpretação: 98,1% no bloco técnico; 42,4% relatam solução paga pela empresa. Recomendação: Oferecer ferramentas aprovadas e medir uso com qualidade, custo e resultado — não apenas licenças.
+
+## Slide 20 — Governança: centralizar sem bloquear a experimentação
+
+A governança cresce, mas o uso descentralizado permanece. Bloco técnico; residentes; n = 3.697 / 3.531 / 2.043 por item. Alternativas podem coexistir, logo não somam 100%. Interpretação: Direcionamento centralizado: 10,5% → 35,9%. Recomendação: Definir catálogo de ferramentas, orientações de dados e revisão humana para os pilotos.
+
+## Slide 21 — Impacto: produção com resultado ainda é uma minoria
+
+Uso difundido não significa impacto de negócio comprovado. 2025–2026; bloco de gestores; n = 616 respostas válidas. Percepção declarada; não empresas únicas e não ROI auditado. Interpretação: 27,6% relatam produção com resultado; 38,5% citam pilotos com pouco resultado. Recomendação: Priorizar casos com baseline e critérios de sucesso. Não há ROI auditado nesta pesquisa.
+
+## Slide 22 — Contratação e retenção: uma proposta de valor integrada
+
+A proposta de valor deve combinar salário, flexibilidade e carreira. 2025–2026; n = 3.123 por item. Múltipla escolha; critérios podem coexistir. Interpretação: 83,2% citam salário; 56,7% citam flexibilidade. Recomendação: Combinar remuneração competitiva, flexibilidade e trilhas de carreira explícitas.
+
+## Slide 23 — Instituição financeira: orçamento precisa refletir o mercado
+
+O setor financeiro exige uma referência salarial competitiva. 2025–2026; residentes; com setor e salário válidos. n: Outros setores: 2531; Finanças ou Bancos: 591. Comparação não ajustada por composição. Interpretação: Finanças/Bancos concentram 19,0% das respostas com setor informado. Recomendação: Calibrar orçamento com cargo e senioridade; validar referências com recrutamento real.
+
+## Slide 24 — Plano de 90 dias: contratar, capacitar e provar valor
+
+Os prazos são uma proposta executiva. Não são metas derivadas estatisticamente da pesquisa. Estabelecer valores-alvo após baseline interno. IA em instituição financeira demanda avaliação de segurança e revisão pelos responsáveis internos; não há parecer jurídico nesta entrega.
+
+## Slide 25 — Critério de conclusão: uma análise rastreável e uma execução comprovada
+
+Conclua reforçando a cadeia de valor: dados preservados, processamento auditável e decisões contextualizadas. A entrega cloud só estará completa com a execução real e suas evidências. O teste local comparou 290 linhas de distribuições, 45 indicadores e 159 recortes salariais entre Pandas e Spark, mais escrita e releitura Parquet de 14.002 linhas.
+
