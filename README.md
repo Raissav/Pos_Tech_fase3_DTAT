@@ -4,6 +4,12 @@ Este repositório contém a solução completa do Tech Challenge da pós-gradua�
 
 A solução aplica o padrão de Arquitetura Medallion, realizando o processamento distribuído via PySpark (AWS Glue), catalogação automatizada e consultas analíticas otimizadas através do Amazon Athena.
 
+📺 Apresentação Executiva
+
+Conforme os requisitos de comunicação executiva estabelecidos para o desafio, gravamos um vídeo de defesa técnica direcionado ao corpo diretivo e stakeholders. O vídeo aborda a arquitetura de dados na AWS, o tratamento das safras, os principais insights extraídos e as ressalvas analíticas do mercado de dados.
+
+▶️ Assistir à Apresentação Executiva no YouTube
+
 👥 Autores do Projeto
 
 O trabalho foi idealizado, projetado e executado de forma colaborativa pelos integrantes:
@@ -69,11 +75,3 @@ S3 Bucket: Estruturação dos prefixos data-input/, scripts/ e silver/.
 AWS Glue Job: Histórico de execução concluído com status verde Succeeded.
 
 Amazon Athena: Validação volumétrica de paridade dos dados (14.002+ registros reconciliados).
-
-🚀 Como Executar o Pipeline
-
-Upload dos Arquivos: Envie o conteúdo de dados_originais/ para s3://<seu-bucket>/data-input/ e o conteúdo de codigos/ para s3://<seu-bucket>/scripts/.
-
-AWS Glue Job: Crie um Job Spark no Glue 5.1 apontando para glue_job.py e configure os parâmetros obrigatórios (--CONFIG_S3_PATH, --INPUT_PREFIX, --OUTPUT_PREFIX, --RUN_ID, --DATABASE).
-
-Consulta: Acesse o Amazon Athena e execute queries SQL sobre a base tech_challenge_db.
