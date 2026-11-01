@@ -1,0 +1,333 @@
+{
+  "01_genero": {
+    "categories": [
+      "2023",
+      "2024",
+      "2025-2026"
+    ],
+    "series": {
+      "Feminino": [
+        24.45862335653519,
+        23.443656422379828,
+        22.004744958481613
+      ]
+    },
+    "title": "A participação feminina é menor nas edições mais recentes",
+    "note": "Residentes no Brasil; n = 5.172 / 5.076 / 3.372. Inclui todas as categorias no denominador. Amostras independentes, não painel.",
+    "kind": "line"
+  },
+  "02_regioes": {
+    "categories": [
+      "Sudeste",
+      "Sul",
+      "Nordeste",
+      "Centro-oeste",
+      "Norte"
+    ],
+    "series": {
+      "2025–2026": [
+        64.41080439299495,
+        16.028495102404275,
+        11.279311368358565,
+        6.856634016028496,
+        1.4247551202137132
+      ]
+    },
+    "title": "O Sudeste concentra 64,4% das respostas com região informada",
+    "note": "2025–2026; residentes no Brasil com região válida: n = 3.369. Não é estimativa de participação no emprego nacional.",
+    "kind": "bar"
+  },
+  "03_modelos": {
+    "categories": [
+      "100% remoto",
+      "Híbrido flexível",
+      "Híbrido com dias fixos",
+      "100% presencial"
+    ],
+    "series": {
+      "Atual": [
+        40.05763688760807,
+        19.30835734870317,
+        19.820685238552677,
+        20.81332052513609
+      ],
+      "Ideal": [
+        42.5552353506244,
+        42.683317323086776,
+        12.87223823246878,
+        1.8892090938200448
+      ]
+    },
+    "title": "A preferência por flexibilidade supera a prática atual",
+    "note": "2025–2026; n = 3.123 em cada pergunta. Categorias mutuamente exclusivas dentro de cada pergunta.",
+    "kind": "bar"
+  },
+  "04_remoto": {
+    "categories": [
+      "2023",
+      "2024",
+      "2025-2026"
+    ],
+    "series": {
+      "100% remoto atual": [
+        46.27122286696755,
+        45.52175749894381,
+        40.05763688760807
+      ]
+    },
+    "title": "O remoto integral perde espaço na composição das amostras",
+    "note": "Residentes com modelo atual informado; n = 4.653 / 4.734 / 3.123. Variação descritiva entre amostras.",
+    "kind": "line"
+  },
+  "05_senioridade": {
+    "categories": [
+      "Júnior",
+      "Pleno",
+      "Sênior",
+      "Especialista/Staff+"
+    ],
+    "series": {
+      "Faixa ≥ R$ 12.001/mês": [
+        1.568627450980392,
+        10.19867549668874,
+        50.60679611650485,
+        83.1858407079646
+      ]
+    },
+    "title": "Senioridade diferencia fortemente a distribuição salarial",
+    "note": "2025–2026; n por grupo: 510 / 755 / 824 / 339. Faixa reportada, sem média imputada. Staff+ aparece como categoria nesta edição.",
+    "kind": "bar"
+  },
+  "06_cargos": {
+    "categories": [
+      "ML / AI Engineer",
+      "Analytics Engineer",
+      "Engenharia / Arquitetura de Dados",
+      "Ciência de Dados",
+      "Desenvolvimento de Software",
+      "Análise de Dados"
+    ],
+    "series": {
+      "Faixa ≥ R$ 12.001/mês": [
+        63.10679611650485,
+        50.75757575757576,
+        48.57142857142857,
+        45.56354916067146,
+        43.29896907216495,
+        16.49484536082474
+      ]
+    },
+    "title": "ML/IA e engenharia têm maior concentração nas faixas altas",
+    "note": "2025–2026; n dos cargos: 103 / 132 / 385 / 417 / 97 / 582. Ranking elegível n ≥ 30; não controla senioridade e não mede vagas.",
+    "kind": "bar"
+  },
+  "07_salario_regiao": {
+    "categories": [
+      "Sudeste",
+      "Sul",
+      "Nordeste",
+      "Centro-oeste",
+      "Norte"
+    ],
+    "series": {
+      "Faixa ≥ R$ 12.001/mês": [
+        44.63667820069204,
+        39.01960784313726,
+        31.61094224924012,
+        38.009049773755656,
+        44.44444444444444
+      ]
+    },
+    "title": "As regiões diferem, mas há forte assimetria amostral",
+    "note": "2025–2026; n: Sudeste 2.023; Sul 510; Nordeste 329; Centro-oeste 221; Norte 36. Comparação não ajustada.",
+    "kind": "bar"
+  },
+  "08_salario_modelo": {
+    "categories": [
+      "100% remoto",
+      "Híbrido flexível",
+      "Híbrido com dias fixos",
+      "100% presencial"
+    ],
+    "series": {
+      "Faixa ≥ R$ 12.001/mês": [
+        50.56,
+        48.92205638474295,
+        39.25686591276252,
+        21.23076923076923
+      ]
+    },
+    "title": "Remoto e híbrido flexível concentram faixas mais altas",
+    "note": "2025–2026; n: remoto 1.250; híbrido flexível 603; híbrido fixo 619; presencial 650. Associação, não efeito causal do modelo.",
+    "kind": "bar"
+  },
+  "09_linguagens_2024": {
+    "categories": [
+      "SQL",
+      "Python"
+    ],
+    "series": {
+      "Uso no trabalho em 2024": [
+        87.66419189034838,
+        81.75328383780696
+      ]
+    },
+    "title": "SQL e Python sustentam a trilha básica de capacitação",
+    "note": "2024; n = 3.502 respostas válidas por item. Múltipla escolha. Em 2025–2026, o cabeçalho indica preferência; não comparar como adoção.",
+    "kind": "bar"
+  },
+  "10_cloud": {
+    "categories": [
+      "AWS",
+      "Azure",
+      "GCP"
+    ],
+    "series": {
+      "Uso no dia a dia": [
+        48.10624692572553,
+        34.628627643876044,
+        31.087063453025085
+      ]
+    },
+    "title": "AWS lidera entre as três clouds comparadas nesta amostra",
+    "note": "2025–2026; n = 2.033 por item; múltipla escolha. Cloud em 2023 tem cabeçalho de preferência; série temporal não utilizada.",
+    "kind": "bar"
+  },
+  "11_bi": {
+    "categories": [
+      "Power BI",
+      "Tableau"
+    ],
+    "series": {
+      "Uso no dia a dia": [
+        58.981889378365146,
+        13.411649534997553
+      ]
+    },
+    "title": "Power BI tem ampla presença entre os respondentes",
+    "note": "2025–2026; n = 2.043 por item; múltipla escolha. Comparação destas ferramentas, não ranking exaustivo de todas as opções.",
+    "kind": "bar"
+  },
+  "12_ia": {
+    "categories": [
+      "2023",
+      "2024",
+      "2025-2026"
+    ],
+    "series": {
+      "Uso declarado de IA": [
+        80.76818305638791,
+        93.71802160318364,
+        98.0863591756624
+      ],
+      "Empresa paga solução": [
+        6.464701109007303,
+        19.173038799207024,
+        42.38864415075869
+      ]
+    },
+    "title": "O uso declarado de IA se amplia; o financiamento também",
+    "note": "Uso: n = 3.671 / 3.518 / 2.038, após excluir conflitos. Empresa paga: n = 3.697 / 3.531 / 2.043. Respostas de técnicos, não toda a amostra.",
+    "kind": "line"
+  },
+  "13_governanca": {
+    "categories": [
+      "2023",
+      "2024",
+      "2025-2026"
+    ],
+    "series": {
+      "Uso descentralizado": [
+        45.82093589396808,
+        50.12744265080714,
+        47.96867351933431
+      ],
+      "Direcionamento centralizado": [
+        10.5220449012713,
+        21.12715944491645,
+        35.9275575134606
+      ]
+    },
+    "title": "A governança cresce, mas o uso descentralizado permanece",
+    "note": "Bloco técnico; residentes; n = 3.697 / 3.531 / 2.043 por item. Alternativas podem coexistir, logo não somam 100%.",
+    "kind": "line"
+  },
+  "14_impacto": {
+    "categories": [
+      "Pilotos com pouco resultado",
+      "Produção com resultados",
+      "Investigação / planejamento",
+      "Sem projeto iniciado",
+      "Não sabe opinar"
+    ],
+    "series": {
+      "Percepção dos gestores": [
+        38.47402597402598,
+        27.5974025974026,
+        14.772727272727272,
+        12.824675324675324,
+        6.331168831168832
+      ]
+    },
+    "title": "Uso difundido não significa impacto de negócio comprovado",
+    "note": "2025–2026; bloco de gestores; n = 616 respostas válidas. Percepção declarada; não empresas únicas e não ROI auditado.",
+    "kind": "bar"
+  },
+  "15_atracao": {
+    "categories": [
+      "Remuneração",
+      "Flexibilidade remota",
+      "Plano de carreira"
+    ],
+    "series": {
+      "Critério de escolha": [
+        83.22126160742876,
+        56.74031380083253,
+        32.78898495036824
+      ]
+    },
+    "title": "A proposta de valor deve combinar salário, flexibilidade e carreira",
+    "note": "2025–2026; n = 3.123 por item. Múltipla escolha; critérios podem coexistir.",
+    "kind": "bar"
+  },
+  "17_formacao": {
+    "categories": [
+      "Pós-graduação",
+      "Graduação/Bacharelado",
+      "Mestrado",
+      "Estudante de Graduação",
+      "Doutorado ou Phd",
+      "Não tenho graduação formal",
+      "Prefiro não informar"
+    ],
+    "series": {
+      "Escolaridade declarada": [
+        40.42111506524318,
+        30.84223013048636,
+        12.099644128113878,
+        10.34994068801898,
+        4.270462633451957,
+        1.7497034400948992,
+        0.2669039145907473
+      ]
+    },
+    "title": "A formação avançada é frequente na amostra",
+    "note": "2025–2026; residentes no Brasil; n = 3.372, incluindo recusa. Escolaridade reportada não prova competência nem efeito causal na remuneração.",
+    "kind": "bar"
+  },
+  "16_financas": {
+    "categories": [
+      "Outros setores",
+      "Finanças ou Bancos"
+    ],
+    "series": {
+      "Faixa ≥ R$ 12.001/mês": [
+        40.26076649545634,
+        48.90016920473773
+      ]
+    },
+    "title": "O setor financeiro exige uma referência salarial competitiva",
+    "note": "2025–2026; residentes; com setor e salário válidos. n: Outros setores: 2531; Finanças ou Bancos: 591. Comparação não ajustada por composição.",
+    "kind": "bar"
+  }
+}

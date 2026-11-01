@@ -1,0 +1,36 @@
+{
+  "consultado_em": "2026-10-29",
+  "origem": "https://www.kaggle.com/api/v1/datasets/list?search=state%20of%20data&user=datahackers",
+  "datasets": [
+    {
+      "ref": "datahackers/state-of-data-2021",
+      "title": "State of Data Brazil 2021-2022",
+      "lastUpdated": "2022-03-31T18:48:28.757Z",
+      "url": "https://www.kaggle.com/datasets/datahackers/state-of-data-2021"
+    },
+    {
+      "ref": "datahackers/state-of-data-brazil-20242025",
+      "title": "State of Data Brazil 2024-2025",
+      "lastUpdated": "2025-05-09T17:40:45.89Z",
+      "url": "https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-20242025"
+    },
+    {
+      "ref": "datahackers/state-of-data-2022",
+      "title": "State of Data Brazil 2022-2023",
+      "lastUpdated": "2023-03-13T00:28:31.443Z",
+      "url": "https://www.kaggle.com/datasets/datahackers/state-of-data-2022"
+    },
+    {
+      "ref": "datahackers/state-of-data-brazil-2023",
+      "title": "State of Data Brazil 2023-2024",
+      "lastUpdated": "2024-06-20T03:05:40.743Z",
+      "url": "https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023"
+    },
+    {
+      "ref": "datahackers/state-of-data-brazil-2025-2026",
+      "title": "State of Data Brazil 2025-2026",
+      "lastUpdated": "2026-07-09T01:10:20.723Z",
+      "url": "https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2025-2026"
+    }
+  ]
+}

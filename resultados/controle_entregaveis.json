@@ -1,0 +1,11 @@
+{
+  "apresentacao_slides": 25,
+  "formas_fora_da_pagina": [],
+  "pdf_executivo_paginas": 25,
+  "guia_pdf_paginas": 9,
+  "graficos_png": 17,
+  "notebook_sem_erros": true,
+  "xml_drawio_valido": true,
+  "integracao_aws": "PENDENTE: executar no Lab conforme guia",
+  "teste_spark": "PASS: distribuicoes: 290 linhas; todas as categorias, contagens e percentuais equivalentes.\nPASS: indicadores: 45 linhas; todas as categorias, contagens e percentuais equivalentes.\nPASS: salarios_segmentos: 159 linhas; todas as categorias, contagens e percentuais equivalentes.\nPASS: relatório de qualidade equivalente; leitura Spark preservou linhas e campos mapeados.\nPASS: escrita e releitura Parquet Spark: 14.002 registros.\n\nSpark 3.5.6; execução local, não AWS.\n"
+}

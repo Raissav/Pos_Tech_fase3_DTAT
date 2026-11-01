@@ -1,0 +1,160 @@
+edicao_pesquisa,dimensao,categoria,n_salario_alto,denominador,percentual
+2023,cargo,Analista de BI/BI Analyst,29,500,5.8
+2023,cargo,Analista de Dados/Data Analyst,86,889,9.67379077615298
+2023,cargo,Analista de Inteligência de Mercado/Market Intelligence,1,38,2.6315789473684212
+2023,cargo,Analista de Negócios/Business Analyst,17,194,8.762886597938145
+2023,cargo,Analista de Suporte/Analista Técnico,1,72,1.3888888888888888
+2023,cargo,Analytics Engineer,47,136,34.55882352941177
+2023,cargo,Cientista de Dados/Data Scientist,209,671,31.147540983606557
+2023,cargo,DBA/Administrador de Banco de Dados,5,19,26.31578947368421
+2023,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),36,79,45.56962025316456
+2023,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,32,105,30.476190476190474
+2023,cargo,Economista,1,5,20.0
+2023,cargo,Engenheiro de Dados/Arquiteto de Dados/Data Engineer/Data Architect,240,665,36.090225563909776
+2023,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,27,72,37.5
+2023,cargo,Estatístico,7,21,33.333333333333336
+2023,cargo,Outra Opção,36,260,13.846153846153847
+2023,cargo,Outras Engenharias (não inclui dev),5,29,17.24137931034483
+2023,cargo,Professor/Pesquisador,8,25,32.0
+2023,senioridade,Júnior,5,1026,0.4873294346978557
+2023,senioridade,Pleno,104,1368,7.60233918128655
+2023,senioridade,Sênior,678,1386,48.917748917748916
+2023,regiao,Centro-oeste,95,304,31.25
+2023,regiao,Nordeste,100,501,19.960079840319363
+2023,regiao,Norte,8,69,11.594202898550725
+2023,regiao,Sudeste,965,2889,33.40256143994462
+2023,regiao,Sul,225,886,25.395033860045146
+2023,modelo_atual,Modelo 100% presencial,108,784,13.775510204081632
+2023,modelo_atual,Modelo 100% remoto,753,2152,34.9907063197026
+2023,modelo_atual,Modelo híbrido com dias fixos de trabalho presencial,192,774,24.8062015503876
+2023,modelo_atual,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),342,942,36.30573248407644
+2023,genero,Feminino,254,1090,23.30275229357798
+2023,genero,Masculino,1137,3543,32.091447925486875
+2023,genero,Outro,0,7,0.0
+2023,genero,Prefiro não informar,4,12,33.333333333333336
+2023,setor,Agronegócios,23,91,25.274725274725274
+2023,setor,Educação,45,205,21.951219512195124
+2023,setor,Entretenimento ou Esportes,20,58,34.48275862068966
+2023,setor,Filantropia/ONG's,4,27,14.814814814814815
+2023,setor,Finanças ou Bancos,320,917,34.89640130861505
+2023,setor,Indústria,84,307,27.36156351791531
+2023,setor,Internet/Ecommerce,51,126,40.476190476190474
+2023,setor,Marketing,22,113,19.469026548672566
+2023,setor,Outra Opção,85,329,25.835866261398177
+2023,setor,Seguros ou Previdência,20,67,29.850746268656717
+2023,setor,Setor Alimentício,28,105,26.666666666666668
+2023,setor,Setor Automotivo,8,50,16.0
+2023,setor,Setor Farmaceutico,9,28,32.142857142857146
+2023,setor,Setor Imobiliário/ Construção Civil,21,65,32.30769230769231
+2023,setor,Setor Público,42,171,24.56140350877193
+2023,setor,Setor de Energia,22,84,26.19047619047619
+2023,setor,Tecnologia/Fábrica de Software,278,837,33.213859020310636
+2023,setor,Telecomunicação,22,112,19.642857142857142
+2023,setor,Varejo,136,385,35.324675324675326
+2023,setor,Área da Saúde,64,200,32.0
+2023,setor,Área de Consultoria,91,375,24.266666666666666
+2024,cargo,Analista de BI/BI Analyst,30,392,7.653061224489796
+2024,cargo,Analista de Dados/Data Analyst,130,935,13.903743315508022
+2024,cargo,Analista de Negócios/Business Analyst,32,181,17.679558011049725
+2024,cargo,Analista de Suporte/Analista Técnico,4,76,5.2631578947368425
+2024,cargo,Analytics Engineer,77,223,34.52914798206278
+2024,cargo,Arquiteto de Dados/Data Architect,36,46,78.26086956521739
+2024,cargo,Cientista de Dados/Data Scientist,278,676,41.124260355029584
+2024,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),33,79,41.77215189873418
+2024,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,25,120,20.833333333333332
+2024,cargo,Engenheiro de Dados/Data Engineer/Data Architect,224,586,38.225255972696246
+2024,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,51,98,52.04081632653061
+2024,cargo,Estatístico,1,17,5.882352941176471
+2024,cargo,Outra Opção,34,244,13.934426229508198
+2024,cargo,Outras Engenharias (não inclui dev),10,29,34.48275862068966
+2024,cargo,Professor/Pesquisador,3,21,14.285714285714286
+2024,senioridade,Júnior,8,855,0.935672514619883
+2024,senioridade,Pleno,109,1345,8.104089219330856
+2024,senioridade,Sênior,851,1523,55.87655942219304
+2024,regiao,Centro-oeste,94,300,31.333333333333332
+2024,regiao,Nordeste,123,447,27.516778523489933
+2024,regiao,Norte,13,57,22.80701754385965
+2024,regiao,Sudeste,1210,2939,41.17046614494726
+2024,regiao,Sul,303,988,30.668016194331983
+2024,modelo_atual,Modelo 100% presencial,130,783,16.602809706257982
+2024,modelo_atual,Modelo 100% remoto,900,2155,41.76334106728538
+2024,modelo_atual,Modelo híbrido com dias fixos de trabalho presencial,288,826,34.86682808716707
+2024,modelo_atual,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),426,970,43.91752577319588
+2024,genero,Feminino,308,1111,27.722772277227723
+2024,genero,Masculino,1431,3603,39.716902581182346
+2024,genero,Outro,1,6,16.666666666666668
+2024,genero,Prefiro não informar,4,14,28.571428571428573
+2024,setor,Agronegócios,27,83,32.53012048192771
+2024,setor,Educação,53,185,28.64864864864865
+2024,setor,Entretenimento ou Esportes,15,41,36.58536585365854
+2024,setor,Filantropia/ONG's,4,15,26.666666666666668
+2024,setor,Finanças ou Bancos,385,1023,37.634408602150536
+2024,setor,Indústria,115,321,35.82554517133956
+2024,setor,Internet/Ecommerce,67,147,45.57823129251701
+2024,setor,Marketing,29,110,26.363636363636363
+2024,setor,Outra Opção,90,323,27.86377708978328
+2024,setor,Seguros ou Previdência,18,63,28.571428571428573
+2024,setor,Setor Alimentício,49,136,36.029411764705884
+2024,setor,Setor Automotivo,13,53,24.528301886792452
+2024,setor,Setor Farmaceutico,9,27,33.333333333333336
+2024,setor,Setor Imobiliário/ Construção Civil,28,74,37.83783783783784
+2024,setor,Setor Público,55,137,40.14598540145985
+2024,setor,Setor de Energia,27,77,35.064935064935064
+2024,setor,Tecnologia/Fábrica de Software,383,909,42.13421342134213
+2024,setor,Telecomunicação,27,101,26.73267326732673
+2024,setor,Varejo,173,376,46.01063829787234
+2024,setor,Área da Saúde,67,191,35.07853403141361
+2024,setor,Área de Consultoria,110,342,32.16374269005848
+2025-2026,cargo,Analista de BI/BI Analyst,26,212,12.264150943396226
+2025-2026,cargo,Analista de Dados/Data Analyst,96,582,16.49484536082474
+2025-2026,cargo,Analista de Negócios/Business Analyst,23,140,16.428571428571427
+2025-2026,cargo,Analista de Suporte/Analista Técnico,6,52,11.538461538461538
+2025-2026,cargo,Analytics Engineer,67,132,50.75757575757576
+2025-2026,cargo,Arquiteto de Dados/Data Architect,17,27,62.96296296296296
+2025-2026,cargo,Cientista de Dados/Data Scientist,190,417,45.563549160671464
+2025-2026,cargo,Data Product Manager/ Product Manager (PM/APM/DPM/GPM/PO),16,29,55.172413793103445
+2025-2026,cargo,Desenvolvedor/ Engenheiro de Software/ Analista de Sistemas,42,97,43.29896907216495
+2025-2026,cargo,Engenheiro de Dados/Data Engineer/Data Architect,187,385,48.57142857142857
+2025-2026,cargo,Engenheiro de Machine Learning/ML Engineer/AI Engineer,65,103,63.10679611650485
+2025-2026,cargo,Estatístico,3,9,33.333333333333336
+2025-2026,cargo,Outra Opção,29,202,14.356435643564357
+2025-2026,cargo,Outras Engenharias (não inclui dev),11,26,42.30769230769231
+2025-2026,cargo,Professor/Pesquisador,6,15,40.0
+2025-2026,senioridade,Especialista/Staff+,282,339,83.1858407079646
+2025-2026,senioridade,Júnior,8,510,1.5686274509803921
+2025-2026,senioridade,Pleno,77,755,10.198675496688741
+2025-2026,senioridade,Sênior,417,824,50.60679611650485
+2025-2026,regiao,Centro-oeste,84,221,38.009049773755656
+2025-2026,regiao,Nordeste,104,329,31.61094224924012
+2025-2026,regiao,Norte,16,36,44.44444444444444
+2025-2026,regiao,Sudeste,903,2023,44.63667820069204
+2025-2026,regiao,Sul,199,510,39.01960784313726
+2025-2026,modelo_atual,Modelo 100% presencial,138,650,21.23076923076923
+2025-2026,modelo_atual,Modelo 100% remoto,632,1250,50.56
+2025-2026,modelo_atual,Modelo híbrido com dias fixos de trabalho presencial,243,619,39.25686591276252
+2025-2026,modelo_atual,Modelo híbrido flexível (o funcionário tem liberdade para escolher quando estar no escritório presencialmente),295,603,48.92205638474295
+2025-2026,genero,Feminino,247,682,36.21700879765396
+2025-2026,genero,Masculino,1057,2425,43.58762886597938
+2025-2026,genero,Outro,1,7,14.285714285714286
+2025-2026,genero,Prefiro não informar,3,8,37.5
+2025-2026,setor,Agronegócios,23,66,34.84848484848485
+2025-2026,setor,Educação,46,156,29.487179487179485
+2025-2026,setor,Entretenimento ou Esportes,18,40,45.0
+2025-2026,setor,Filantropia/ONG's,9,18,50.0
+2025-2026,setor,Finanças ou Bancos,289,591,48.900169204737736
+2025-2026,setor,Indústria,81,231,35.064935064935064
+2025-2026,setor,Internet/Ecommerce,50,100,50.0
+2025-2026,setor,Marketing,24,91,26.373626373626372
+2025-2026,setor,Outra Opção,87,235,37.02127659574468
+2025-2026,setor,Seguros ou Previdência,13,42,30.952380952380953
+2025-2026,setor,Setor Alimentício,31,67,46.26865671641791
+2025-2026,setor,Setor Automotivo,16,48,33.333333333333336
+2025-2026,setor,Setor Farmaceutico,8,16,50.0
+2025-2026,setor,Setor Imobiliário/ Construção Civil,16,45,35.55555555555556
+2025-2026,setor,Setor Público,47,133,35.338345864661655
+2025-2026,setor,Setor de Energia,21,54,38.888888888888886
+2025-2026,setor,Tecnologia/Fábrica de Software,252,541,46.58040665434381
+2025-2026,setor,Telecomunicação,24,72,33.333333333333336
+2025-2026,setor,Varejo,75,175,42.857142857142854
+2025-2026,setor,Área da Saúde,51,127,40.15748031496063
+2025-2026,setor,Área de Consultoria,127,274,46.35036496350365
