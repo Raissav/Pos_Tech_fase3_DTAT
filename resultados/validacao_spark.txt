@@ -1,7 +1,0 @@
-PASS: distribuicoes: 290 linhas; todas as categorias, contagens e percentuais equivalentes.
-PASS: indicadores: 45 linhas; todas as categorias, contagens e percentuais equivalentes.
-PASS: salarios_segmentos: 159 linhas; todas as categorias, contagens e percentuais equivalentes.
-PASS: relatório de qualidade equivalente; leitura Spark preservou linhas e campos mapeados.
-PASS: escrita e releitura Parquet Spark: 14.002 registros.
-
-Spark 3.5.6; execução local, não AWS.
